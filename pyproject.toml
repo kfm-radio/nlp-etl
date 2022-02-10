@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "nlp-etl"
+version = "0.1.0"
+description = ""
+authors = ["Kristen Foster-Marks <kristen.foster.marks@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "3.7.4"
+spacy = "3.2"
+
+[tool.poetry.dev-dependencies]
+pytest = "^3.4"
